@@ -1,15 +1,16 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #747704;
 	font-weight: 300;
 }
-.work img {
+.work-img {
     margin: 0 auto;
 }
 
 .text-muted {
 	color: #BCBBBB;
 }
+
 .text-thin {
 	font-weight: 100;
 }
@@ -24,9 +25,9 @@ body {
 
 .modal-body img {
     margin: 0 auto;
-    border: 1px black;
 }
+
 .modal-body p {
     text-align: center;
-    padding: 20px 50px 0px 50px;
+    padding: 20px 50px 0 50px;
 }

@@ -3,7 +3,9 @@ body {
 	color: #747704;
 	font-weight: 300;
 }
-
+.work img {
+    margin: 0 auto;
+}
 
 .text-muted {
 	color: #BCBBBB;
@@ -18,4 +20,13 @@ body {
 
 .title-logo {
 	margin-top: 20px;
+}
+
+.modal-body img {
+    margin: 0 auto;
+    border: 1px black;
+}
+.modal-body p {
+    text-align: center;
+    padding: 20px 50px 0px 50px;
 }
